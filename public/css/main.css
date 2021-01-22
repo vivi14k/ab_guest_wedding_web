@@ -1,0 +1,24 @@
+#myTable_filter label {
+    margin-right: 17px;
+  }
+  
+  #myTable2_filter label {
+    margin-right: 17px;
+  }
+  
+  #myTable {
+    transform: translateY(20px);
+  }
+  
+  .dataTables_info {
+    margin-top: 30px;
+  }
+  
+  .pagination {
+    transform: translate(-19px, 30px);
+    cursor: pointer;
+  }
+
+.sidebar-menu{
+    font-size: 15px;
+}
